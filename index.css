@@ -1,0 +1,67 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: rgb(40, 42, 48);
+}
+.logo{
+    margin-top: 3%;
+    text-align: center;
+}
+.logo img{
+    width: 15%;
+    border-radius: 50%;
+    border: 3px solid #00ffaa;
+    box-shadow: 2px 2px 1px black;
+}
+.name{
+    text-align: center;
+    color: aqua;
+    font-size: 300%;
+}
+.intro{
+    text-align: center;
+    font-size: 150%;
+    color: rgb(44, 233, 44);
+}
+.social{
+    
+    width: 100%;
+    margin-top: 2%;
+}
+.social button{
+    display: block;
+    width: 30%;
+    font-size: 150%;
+    border-radius: 50px 20px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    color: white;
+    border-color: rgb(10, 10, 10);
+    padding: 1%;
+    border: none;
+}
+.fb{
+    background: linear-gradient(to right, #3b5998 0%, #a3b7e6 100%);
+}
+.twitter{
+    background: linear-gradient(to right, #1DA1F2 0%, #9ccfe4 100%);
+}
+.connection{
+    background: linear-gradient(to right, #0077B5 0%, #00A0DC 100%);
+}
+.insta{
+    background: linear-gradient(to right, #8a3ab9 0%, #DD2A7B 100%);
+}
+.fotter{
+    color: azure;
+    text-align: center;
+    font-size: 130%;
+}
+.gitcode{
+    text-align: center;
+    font-size: 100%;
+    color: deepskyblue;
+    margin-top: 3%;
+}
